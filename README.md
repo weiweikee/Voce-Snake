@@ -1,17 +1,14 @@
 # Voce-Snake
 Snake game with voice control
 
-This game use Processing 3. 
+This game use Processing 3 and Voce Library.
 
 Please put the voce-0.9.1 into the library folder of Processing.
 
 ------------------------------------
-
-Voce
 voce.sourceforge.net
 
 This file contains basic installation and usage info.  For more documentation, visit the website.
-
 ------------------------------------
 Package contents
 ------------------------------------
