@@ -147,6 +147,7 @@ void playGame() {
   textSize(36);
   textAlign(LEFT, BOTTOM);
   text("Score:" +score, 5, 36); // Score on top left corner
+  text("Command:" +s, 606, 36); // Commands on top right corner
   textAlign(CENTER, CENTER);
   textSize(100);
 }
