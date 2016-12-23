@@ -1,4 +1,4 @@
-# Voce-Snake
+# Voce-Snake By Wei Wei Chi 2016
 Snake game with voice control
 
 This game use Processing 3 and Voce Library.
