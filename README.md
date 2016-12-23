@@ -3,6 +3,10 @@ Snake game with voice control
 
 This game use Processing 3 and Voce Library.
 
+Please download and use Processing 3 for this application. 
+
+Processing download link: https://processing.org/download/
+
 Please put the voce-0.9.1 into the library folder of Processing.
 
 ------------------------------------
