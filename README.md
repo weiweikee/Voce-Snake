@@ -9,6 +9,8 @@ Processing download link: https://processing.org/download/
 
 Please put the voce-0.9.1 into the library folder of Processing.
 
+Voce is an open source voice recognition software from Tyler Streeter. 
+
 ------------------------------------
 voce.sourceforge.net
 
